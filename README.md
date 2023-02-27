@@ -1,6 +1,6 @@
 👋 Hi, I’m keven-huang
 ----------------------
-a student of Sjtu,a member of Robomaster  
+a student of Sjtu,a member of JiaoLong Robomaster  
 Code for fun,Code to Play  
 Blogs:  
 ![keven-huang's GitHub stats](https://github-readme-stats.vercel.app/api?username=keven-huang&count_private=true)
